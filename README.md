@@ -220,8 +220,6 @@ No modelo adotado, as labels servem como filtros, indicadores ou meio de context
 
 As labels no **gitlab** são diferenciadas em duas categorias gerais: **group labels** que podem ser aplicadas à qualquer projeto pertencente à um grupo e **project labels** que são exclusivas de um projeto específico.
 
-A ASSETI possui atualmente dois grupos correspondentes aos dois projetos principais da SETHAS: o grupo [Restaurante Popular](http://10.104.0.61/restaurante-popular) e o grupo [Programa do Leite Potiguar](http://10.104.0.61/programa-leite-potiguar) que agregam todas as suas aplicações respectivas e para as quais foram definidas labels que já estão inclusas nos templates dos tipos de issues correspondentes.
-
 <div align="center">
   <img src="./images/group_labels.png">
 </div>
